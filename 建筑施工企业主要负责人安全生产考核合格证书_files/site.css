@@ -1,0 +1,15 @@
+body {
+	padding-top: 50px; padding-bottom: 20px;
+}
+.body-content {
+	padding-right: 15px; padding-left: 15px;
+}
+input {
+	max-width: 280px;
+}
+select {
+	max-width: 280px;
+}
+textarea {
+	max-width: 280px;
+}
